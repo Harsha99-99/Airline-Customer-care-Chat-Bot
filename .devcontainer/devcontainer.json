@@ -5,5 +5,5 @@
 "updateContentCommand": "npm install",
 "postAttachCommand": "npm start",
 
-"remoteUser": "node"
+"remoteUser": "neeli"
 }
